@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2>Hi guys over there! 👋</h2>
 
-<!--
-**L3ne/L3ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="right" src="https://github.com/L3ne.png?size=210" alt="EvilG-MC" width="200"/></p>
+<p align="left">I'm <b>L3ne_</b>, A random person who loves to fool around in his spare time and occasionally program bots using JS maybe I'm not the best at it, but I have fun doing it, which is what counts, right?</p> 
+<br>
+<p align="left"> <a href="https://twitter.com/@L3ne_" target="blank"><img src="https://img.shields.io/twitter/follow/L3ne_?logo=twitter&style=for-the-badge" alt="@L3ne_" /></a> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🧰 I’m currently working on **Eris Bot**.
+-   👨‍💻 All of my projects are available in **[Repositories](https://github.com/L3ne?tab=repositories)**,
+-   📫 How to reach me **len.** on discord or **[@L3ne_](https://twitter.com/@L3ne_)** on twitter if you want.
+<br>
+<h2 align="left">✨ Actitity</h2>
+<p><img align="center" src="https://lanyard.cnrad.dev/api/435068712786198538" alt="EvilG-MC" /></p>
+<p><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=qtwhadt2664q7xze22lcpr8mi&unique=true" alt="L3ne_" width="410"/></p>
+<br> 
+<h2 align="left">📖 Stats</h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=L3ne&theme=dracula&show_icons=true" alt="L3ne_" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=L3ne&theme=dracula&hide_border=true" alt="L3ne_" /></p>
