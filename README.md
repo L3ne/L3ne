@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <a href="https://twitter.com/@L3ne_" target="blank"><img src="https://img.shields.io/twitter/follow/L3ne_?logo=twitter&style=for-the-badge" alt="@L3ne_" /></a> </p>
 
--   🧰 I’m currently working on **Eris Bot**.
+-   🧰 I’m currently working on **Kokoro Bot**.
 -   👨‍💻 All of my projects are available in **[Repositories](https://github.com/L3ne?tab=repositories)**,
 -   📫 How to reach me **len.** on discord or **[@L3ne_](https://twitter.com/@L3ne_)** on twitter if you want.
 <br>
