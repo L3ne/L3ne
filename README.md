@@ -20,7 +20,6 @@ I mostly work with JavaScript and web technologies. I’m not aiming for perfect
   <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
-  <img src="https://img.shields.io/badge/osu!-000000?style=flat&logo=osu" />
 </p>
 
 ---
